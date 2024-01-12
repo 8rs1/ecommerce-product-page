@@ -10,7 +10,7 @@ const navItems = reactive([
 ]);
 </script>
 <template>
-  <header class="flex justify-between container py-6 border-b border-solid border-b-slate-400">
+  <header class="flex justify-between container py-6 border-b border-solid border-b-slate-400 mb-10">
     <div class="header-left flex gap-x-7 items-center">
       <div class="logobar font-bold text-2xl font-serif">sneakers</div>
       <nav class="navbar">
